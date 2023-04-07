@@ -7,4 +7,4 @@ Also, I can easily integrate into the team, being communicative and sociable, wi
 Manual Testing
 
 
-Lesson 5 FastTrackIT - Write 10 test cases from two demo sites
+Lesson 4 FastTrackIT - Write 10 test cases from two demo websites
